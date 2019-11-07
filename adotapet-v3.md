@@ -1,6 +1,6 @@
 # Versão 3
 
-> Se quiser acompanhar o código completo desta versão acesse https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=3
+> Se quiser acompanhar o código completo desta versão acesse https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=4
 
 Já sabemos como usar algumas das opções de layout do NativeScript, bem como componentes para apresentar texto, imagem e botões. 
 

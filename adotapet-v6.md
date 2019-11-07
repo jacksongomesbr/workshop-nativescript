@@ -1,5 +1,7 @@
 # Versão 6
 
+> Você pode acompanhar o código completo acessando https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=8
+
 Nesta versão vamos implementar o requisito não-funcional:
 
 * o recurso de navegação de telas deve ser obtido utilizando rotas

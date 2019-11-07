@@ -1,6 +1,6 @@
 # Versão 2
 
-> Se quiser acompanhar o código completo dessa versão acesse https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=2
+> Se quiser acompanhar o código completo dessa versão acesse https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=3
 
 A [versão 1](adotapet-v1.md) apresenta a tela inicial com alguns textos que ajudam a motivar pessoas a adotarem bichinhos de estimação. Entretanto, parece muito texto para uma tela. Vamos melhorar isso com mais um requisito:
 

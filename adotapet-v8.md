@@ -1,5 +1,7 @@
 # Versão 8
 
+> Você pode acompanhar o código completo dessa versão acessando https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=10
+
 Nesta versão vamos implementar os requisitos:
 
 * o software não deve apresentar a barra de ação na tela inicial, apenas nas telas de lista e detalhes

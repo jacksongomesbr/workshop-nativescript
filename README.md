@@ -16,4 +16,8 @@ Seção  | Descrição
 [**AdotaPet v2**](adotapet-v2.md) | apresenta a versão 2 do AdotaPet, demonstrando recursos do Angular como composição de componentes, diretivas, eventos e detalhando componentes `Image` e `GridLayout` do NativeScript
 [**AdotaPet v3**](adotapet-v3.md) | apresenta a versão 3 do AdotaPet, abordando o componente `ListView` do NativeScript
 [**AdotaPet v4**](adotapet-v4.md) | apresenta a versão 4 do AdotaPet, abordando o conceito de serviços do Angular e incrementando a arquitetura do software
-[**AdotaPet v5**](adotapet-v5.md) | apresenta a versão 5 do AdotaPet, abordando mais recursos do Angular no sentido de usar componentes para incrementar a arquitetura do software e  utilizar o recurso de entrada para o componente
+[**AdotaPet v5**](adotapet-v5.md) | apresenta a versão 5 do AdotaPet, abordando mais 
+recursos do Angular no sentido de usar componentes para incrementar a arquitetura do software e  utilizar o recurso de entrada para o componente
+[**AdotaPet v6**](adotapet-v6.md) | (...)
+[**AdotaPet v7**](adotapet-v7.md) | (...)
+[**AdotaPet v8**](adotapet-v8.md) | (...)

@@ -27,4 +27,5 @@ Parte deste software é inspirada no site https://www.amigonaosecompra.com.br/.
 
 * A arquitetura do software deve adotar o recurso de service para isolar comportamento do componente (implementado na [versão 4](adotapet-v4.md))
 * A estrutura do software deve adotar três componentes: a) home, para mostrar a tela inicial; b) lista, para mostrar a lista dos animais disponíveis para adoção; e c) detalhes, para mostrar mais informações de um animal (implementado na [versão 5](adotapet-v5.md))
+* O recurso de navegação de telas deve ser obtido utilizando rotas [versão 6](adotapet-v6.md))
 

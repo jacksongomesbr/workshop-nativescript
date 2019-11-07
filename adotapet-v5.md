@@ -1,6 +1,6 @@
 # Versão 5
 
-> Acompanhe o código completo dessa versão acessando https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=5
+> Acompanhe o código completo dessa versão acessando https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=7
 
 Nesta versão vamos implementar mais um requisito não funcional:
 

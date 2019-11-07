@@ -1,6 +1,6 @@
 # Versão 4
 
-> Você pode acompanhar o código completo dessa versão acessando https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=4
+> Você pode acompanhar o código completo dessa versão acessando https://play.nativescript.org/?template=play-ng&id=4zfO6B&v=5
 
 Esta versão do software tem um requisito não funcional:
 
@@ -87,7 +87,7 @@ Ou seja, o atributo `animais` recebe o retorno do método `lista()`.
 
 O mais importante até aqui é que a mudança na arquitetura do software não modifica seu comportamento.
 
-Por falar em arquitetura, a figura a seguir ilustra a atualização da versão 4.
+Por falar em arquitetura, a figura a seguir ilustra a atualização da [versão 4](adotapet-v4.md).
 
 ![](img/adotapet-v4/arquitetura-angular.png)
 
